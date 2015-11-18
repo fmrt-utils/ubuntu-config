@@ -1,0 +1,20 @@
+[user]
+	name = cook
+	email = ewelex@126.com 
+
+[core]
+	autocrlf = true
+
+[color]
+	branch = auto
+	status = auto
+
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	ci = commit
+	dt = difftool
+	mt = mergetool
+	last = log -1 HEAD
+

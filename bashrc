@@ -1,0 +1,2 @@
+MIPS_GNU_HOME=/tools/mips/mips-2015.05
+PATH=$PATH:$MIPS_GNU_HOME/bin
